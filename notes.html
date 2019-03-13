@@ -74,3 +74,39 @@ Cloud formation = script for creating cloud infrastructure
 
 Trusted Advisor - Advices you about your services you use
 			1. Health, 2. Resources, 3. Cost
+
+
+
+RDB
+Read Replicas are supported by not all DB
+Backup in S3
+Restore from S3 (Can be used to create a DB from backed file of local DB)
+
+AWS Red shift = Data warehousing
+
+
+---------------------------------------------------------------
+
+IAM
+
+C=Confidentialiy using password/MFA
+I=Integrety using encrypt/decrypt
+A=Avalibility using failure preotection/rollback
+
+In Aws not to use root user but create admin user for org
+
+Users in IAM
+1.Root User
+2.IAM User = users created by root user
+3.Federated existing users = federated users of LDAP/AD
+
+Root user must create Admin user (access to all but not billing console)
+Admin users must create child users
+Admin will create groups = for assigning multiple users with same access like multiple admins
+
+Roles are for application as you cannot assign permissions to applications
+like app on ec2 to access s3 bucket data
+So we need to create a role and assign it to app that needs the service
+
+
+
