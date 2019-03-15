@@ -1,0 +1,21 @@
+mkdir dirname
+cd dirname
+vi Dockerfile
+
+FROM ubuntu
+MAINTAINER XXX@gmail.com 
+RUN apt update 
+RUN apt install nginx -y 
+CMD [“echo”,”Image created”] 
+
+
+sudo docker build -t myimage .
+
+docker build -t myimage "/c/Users/adm/tmp/Dockerfile"
+
+docker tag myimage chaitanyagaajula/test1
+
+
+docker push chaitanyagaajula/test1
+
+

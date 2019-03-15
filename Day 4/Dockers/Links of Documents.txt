@@ -1,0 +1,26 @@
+Dockerfile:
+
+https://www.youtube.com/watch?v=LQjaJINkQXY&index=3&list=PLMV3HEfWMHgw0Bx0AeHDuRsUb5M3Tlwmx&t=197s
+
+Autobuild:
+
+https://docs.docker.com/docker-hub/builds/#create-an-automated-build
+
+Docker Organziations and Teams:
+
+https://docs.docker.com/docker-hub/orgs/#organization-teams
+
+Docker Compose:
+
+https://www.youtube.com/watch?v=HUpIoF_conA&list=PLhW3qG5bs-L99pQsZ74f-LC-tOEsBp2rK&index=13&t=0s
+
+https://docs.docker.com/compose/wordpress/#define-the-project
+
+
+https://docs.docker.com/network/network-tutorial-standalone/#use-user-defined-bridge-networks
+
+Differences between kubernetes and DockerSwarm:
+https://www.youtube.com/watch?v=rXuLMl6l2NM
+https://www.upcloud.com/blog/docker-swarm-vs-kubernetes/
+https://vexxhost.com/blog/kubernetes-vs-docker-swarm/
+

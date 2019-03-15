@@ -1,0 +1,9 @@
+API Gateway REST API
+
+API Authentication:
+
+https://auth0.com/docs/api-auth/tutorials/adoption/api-tokens
+
+https://auth0.com/docs/api-auth
+
+https://www.youtube.com/watch?v=N-MAPvDH5jA

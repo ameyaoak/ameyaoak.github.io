@@ -1,0 +1,2 @@
+ https://puppet.com/products/emulator#
+https://puppet.com/demos/devops-demo
