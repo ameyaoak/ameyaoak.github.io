@@ -1,8 +1,0 @@
-Simple Email Service
-aws.amazon.com/ses
-
-Simple Notification Service
-aws.amazon.com/sns
-
-Simple Queue Service
-aws.amazon.com/sqs

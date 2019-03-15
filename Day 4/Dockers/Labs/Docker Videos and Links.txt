@@ -1,5 +1,0 @@
-https://www.youtube.com/watch?v=Xxhhdo2e-DA
-
-Docker Host :
-
-https://docs.docker.com/network/network-tutorial-host/#other-networking-tutorials
