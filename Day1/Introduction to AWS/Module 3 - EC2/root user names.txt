@@ -1,0 +1,4 @@
+amazon linux / redhat -ec2-user
+ubuntu - ubuntu
+centos -centos
+windows - Administrator

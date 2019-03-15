@@ -1,0 +1,5 @@
+https://docs.microsoft.com/en-us/azure/virtual-network/quick-create-portal
+
+https://docs.microsoft.com/en-us/azure/virtual-network/quick-create-cli
+
+https://docs.microsoft.com/en-us/azure/virtual-network/quick-create-powershell
